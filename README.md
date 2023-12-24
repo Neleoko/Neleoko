@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adda Ephraim
+Salut ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Je m'appelle Adda Ephraim
 ====================================================================================================================================
 
-Web developer
+Web developpeur
 -------------
 
 J'aime la programmation
 
-* 🌍  I'm based in France
-* 🖥️  See my portfolio at [Neleoko.github.io](http://neleoko.github.io)
-* ✉️  You can contact me at [adda.ephraim@gmail.com](mailto:adda.ephraim@gmail.com)
-* 🧠  I'm learning Symfony
+* 🌍  Je suis situé à France - Paris
+* 🖥️  Visiter mon portfolio a [Neleoko.github.io](http://neleoko.github.io)
+* ✉️  Vous pouvez me contacter a [adda.ephraim@gmail.com](mailto:adda.ephraim@gmail.com)
+* 🧠  Actuellement en Bachelor CSI 3ème année
 
 <a href="https://www.github.com/Neleoko" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Neleoko?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/Neleoko?logo=github&style=for-the-b
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/neleoko" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Neleoko" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ephraim-adda-bb4348172/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+</a> <a href="https://www.github.com/Neleoko" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ephraim-adda-bb4348172/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
